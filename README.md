@@ -1,6 +1,6 @@
 # RTR105
-cntrl+alt+t = Termināla atvēršana.
-cntrl+l = Notīrīt ekrānu.
+**cntrl+alt+t** = Termināla atvēršana.  
+cntrl+l = Notīrīt ekrānu.  
 u+2reizes tab = Perioda komandas.
 man uname = Komandas apraksts.
 q = Lai izietu ārā no komandas apraksta.
