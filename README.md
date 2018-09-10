@@ -11,4 +11,4 @@
 **ls -l** = Pieejamie objekti.  
 **ls -a** = Parāda mapes un failus.  
 **history** = Parāda vēsturi.  
-**Zilā krāsā ir mapes, melnā krāsā - faili. Būltiņa uz augšu/leju - norāda visas iepriekš izmantotās komandas.**  
+**Zilā krāsā ir mapes, melnā krāsā - faili. Būltiņa uz augšu/leju - norāda visas iepriekš izmantotās komandas. Visur gan nav norādītas mapes ar failiem.**  
